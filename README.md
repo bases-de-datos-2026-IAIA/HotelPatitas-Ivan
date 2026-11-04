@@ -1,11 +1,11 @@
 # BASES DE DATOS - IAIA
 
-Repositorio para las actividades y prácticas de la unidad de aprendizaje Bases de Datos.
+
 
 ## Datos del estudiante
 *   *Nombre:* Ivan Gerardo Miranda Naranjo
 *   *Grupo:* [301 IAIA]
-*   *Periodo:* Agosto-Septiembre 2026
+*   *Fecha:* 03/11/2026
 
 ---
 
