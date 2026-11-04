@@ -5,6 +5,7 @@
 ## Datos del estudiante
 *   *Nombre:* Ivan Gerardo Miranda Naranjo
 *   *Grupo:* [301 IAIA]
+*   Periodo: Agosto-Septiembre 2026
 *   *Fecha:* 03/11/2026
 
 ---
